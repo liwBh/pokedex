@@ -11,9 +11,9 @@
    - ```npm install @reduxjs/toolkit```
    - ```npm install react-redux```
 ##### Boostrap 5
-* URL: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* URL: https://getbootstrap.com/docs/5.3/getting-started/download/
 * Comandos:
-   - ```npm install bootstrap@5.3.0-alpha3```
+   - ```npm install bootstrap@5.3.2```
 
 ##### React Router Dom
 * URL: https://reactrouter.com/en/6.10.0/start/tutorial
@@ -30,11 +30,6 @@
 * Comandos:
    - ```npm install sweetalert2```
 
-##### Loading Spinner
-* URL: https://uiball.com/loaders/
-* Comandos:
-   - ```npm i @uiball/loaders```  
-
 ##### React Player
 * URL: https://www.npmjs.com/package/react-player
 * Comandos:
@@ -44,6 +39,12 @@
 * URL: https://github.com/goldfire/howler.js#documentation
 * Comandos:
    - ``` npm install howler```
+
+#### AOS libreria animaciones
+
+- comando: npm install aos --save
+- documentación: https://github.com/michalsnik/aos
+- Ejemplos: https://michalsnik.github.io/aos/ 
 
 ### API 
 * PokeAPI
